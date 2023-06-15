@@ -11,7 +11,7 @@ The Webpage is also styled with styling for the look.
 JAVASCRIPT
 Using this the detector can detect the weather condition.
 
-1.Using Weather API
+1.Using OPENWeather API
 
 
 2.Using Postman API 
