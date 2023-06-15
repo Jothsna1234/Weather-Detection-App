@@ -12,14 +12,18 @@ JAVASCRIPT
 Using this the detector can detect the weather condition.
 
 1.Using Weather API
+
+
 2.Using Postman API 
 
 * Using  weatherdata function (defining & calling it)  and weather API generating the keys and using them in postman API for generating the requests.
 * After the Successfull Key Generation , Using them in the Javascript code and using the backend connector connecting them and detecting the weather condition in various cities.
+
+
 * Weather Parameters such as 
-     ^ TEMPERATURE
-     ^ MAXIMUM TEMPERATURE
-     ^ MINIMUM TEMPERATURE
-     ^ CONDITION
+ 1. TEMPERATURE
+ 2. MAXIMUM TEMPERATURE
+ 3. MINIMUM TEMPERATURE
+ 4. CONDITION
      
 
